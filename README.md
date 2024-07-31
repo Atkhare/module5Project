@@ -17,4 +17,5 @@ The following steps were executed for this project:
    1. Hypothesize about drivers who accepted the bar coupons
 10. Analysis of Coffee house coupons
     1. Hypothesize about drivers who accepted the  coupons
-** 
+11. All code and hypotheses are in jupyter file - moduleProject.ipynb
+
